@@ -1,2 +1,2 @@
 # formacion
-formacion lanalden
+Git de Formacion para Desarrollo
